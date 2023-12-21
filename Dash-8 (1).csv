@@ -1,0 +1,11 @@
+Date,City,Average Temperature,Country,Language,Climate,Population from csv,population from API,population diff
+2023-12-20 22:23:39.040198,Quito,12.83,Ecuador,Spanish,Tropical,2762563,1399814,1362749
+2023-12-20 22:23:39.211221,Toluca,13.55,Mexico,Spanish,Mild,872044,505881,366163
+2023-12-20 22:23:39.437671,Addis Ababa,13.72,Ethiopia,Amharic,Subtropical,3200000,2757729,442271
+2023-12-20 22:23:39.610775,Mexico City,19.22,Mexico,Spanish,Mild,9209944,15000,9194944
+2023-12-20 22:23:39.773106,Puebla,17.6,Mexico,Spanish,Mild,1434631,5522918,4088287
+2023-12-20 22:23:40.222291,San Luis Potosi,14.43,Mexico,Spanish,Mild,722772,2391929,1669157
+2023-12-20 22:23:40.437676,Leon,19.89,Mexico,Spanish,Mild,1388291,1114626,273665
+2023-12-20 22:23:40.887548,Nairobi,16.29,Kenya,Swahili,Tropical,4397073,2750547,1646526
+2023-12-20 22:23:41.079795,Johannesburg,21.35,Democratic Republic of the Congo,English,Subtropical,957441,2026469,1069028
+2023-12-20 22:23:41.238505,Albuquerque,8.75,United States,English,Desert,560218,545852,14366
